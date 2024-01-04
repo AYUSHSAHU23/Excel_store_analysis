@@ -3,9 +3,11 @@
 **Store analysis and dashboard by using Advanced Excel**.
 
 Tools used:
+
 ~ Advanced Excel
 
 #**Key Insights**:
+
 ~ Women are more likely to buy compared to men (~65%)
 
 ~ Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
