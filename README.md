@@ -2,6 +2,9 @@
 
 **Store analysis and dashboard by using Advanced Excel**.
 
+Tools used:
+~ Advanced Excel
+
 #**Key Insights**:
 ~ Women are more likely to buy compared to men (~65%)
 
