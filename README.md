@@ -1,6 +1,6 @@
 # Vrinda Store's 2022 Annual Sales Report
 
-**Store analysis and dashboard by using Advanced Excel**.
+**Store analysis and Report by using Advanced Excel**.
 
 Tools used:
 
