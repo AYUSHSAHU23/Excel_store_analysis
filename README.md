@@ -1,4 +1,4 @@
-# Excel_store_analysis
+# Vrinda Store's 2022 Annual Sales Report
 
 **Store analysis and dashboard by using Advanced Excel**.
 
