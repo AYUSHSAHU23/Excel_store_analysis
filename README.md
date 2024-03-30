@@ -4,7 +4,24 @@
 
 Tools used:
 
-~ Advanced Excel
+~ Microsoft Excel
+
+Tools Utilized:
+Excel was the primary tool employed for:
+1. Data cleaning
+2. Data processing
+3. Pivot table analysis
+4. Dashboard creation
+
+Key Questions Addressed: 
+1. Comparative Analysis: Visualizing sales and orders in a single chart.
+2. Top Performing Month: Identifying the month with the highest sales and orders.
+3. Gender Analysis: Determining whether men or women made more purchases in 2022.
+4. Top Contributing States: Listing the top 5 states driving sales.
+5. Age-Gender Correlation: Exploring the relationship between age and gender concerning order count.
+6. Channel Performance: Pinpointing the channel contributing the most to sales.
+7. Best-Selling Category: Unveiling the highest selling product category.
+
 
 #**Key Insights**:
 
